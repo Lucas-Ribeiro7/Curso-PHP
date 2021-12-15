@@ -1,0 +1,17 @@
+{
+    "name": "lucas-ribeiro/autoload",
+    "description": "Aprendendo sobre o autoload",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/Loading"
+        }
+    },
+    "authors": [
+        {
+            "name": "lucas-ribeiro",
+            "email": "caetanolucasribeiro@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
